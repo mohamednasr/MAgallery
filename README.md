@@ -1,6 +1,10 @@
-# MAgallery
-Basic responsive photo gallery based on bootstrap grid system.
+# MA photo gallery plugin
+
+Basic responsive photo gallery based on bootstrap grid system and jquery.
+<br/>
+
 The Easiest and the Fastest to use gallery to use in your website.
+<br/>
 include the following css files in the head of the page:
 
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
